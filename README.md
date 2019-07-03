@@ -81,6 +81,15 @@ Linux下如何编译OpenWrt shadowsocks自动翻墙固件
 - 以上修改测试通过后，建议再修改 shadowsocks password, 路由器root password
 - 少数时候需要重启路由器才能使修改生效
 
+关于 IPv6
+---------
+
+默认翻墙固件不支持IPv6
+
+有的软件如 Dropbox 桌面客户端默认连接到服务端 IPv6 地址，`ping dropbox.com` 出来的是IPv6 地址， 可能导致客户端连接服务器失败，浏览器导航到 www.Dropbox.com 连接被重置
+
+解决办法：网络连接的属性，不要勾选 `Internet Protocol Version 6 (TCP/IPv6)`
+
 相关资源
 ------
 

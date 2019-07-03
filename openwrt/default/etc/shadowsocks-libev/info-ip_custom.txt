@@ -6,4 +6,4 @@
 115.159.154.226  # rubyfish DNS
 47.99.165.31     # rubyfish DNS
 202.141.178.13   # openwrt.proxy.ustclug.org
-180.97.162.18
+203.107.40.116
