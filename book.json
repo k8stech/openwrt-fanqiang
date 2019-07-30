@@ -13,7 +13,6 @@
 		"search",
 		"splitter",
 		"page-footer-ex",
-        "disqus",
         "sitemap-general",       
         "anchors",
         "expandable-chapters",
@@ -27,9 +26,6 @@
 			"update_label": "",
 			"update_format": "YYYY-MM-DD"
 		},
-		"disqus": {
-			"shortName": "software-download"
-	    },
 		"sitemap-general": {
 		    "prefix": "https://fanqiang.softwaredownload.name/"
 		},
